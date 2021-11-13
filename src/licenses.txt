@@ -1,0 +1,10 @@
+Список использованных изображений и ссылки на них:
+    visa - https://findicons.com/icon/223562/visa_straight
+    mir - https://icons8.ru/icons/set/mir
+    mastercard - https://findicons.com/icon/223569/mastercard_curved
+    american-express - https://findicons.com/icon/223574/american_express_curved
+    discover - https://findicons.com/icon/223564/discover_curved
+    jsb - https://findicons.com/icon/554156/jcb
+    diners-club - https://findicons.com/icon/608252/pepsized_dinersclub01
+    valid - https://findicons.com/icon/169649/ok
+    invalid - https://findicons.com/icon/169332/cancel
